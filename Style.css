@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(251, 250, 255);
+}
+img{
+    float: left;
+}
+#text1{
+    font-size: 35px;
+}
+#text2{
+    font-size: 30px;
+}
+#text3{
+    font-size: 25px;
+}
+#text4{
+    color: red;
+    font-size: 40px;
+}
